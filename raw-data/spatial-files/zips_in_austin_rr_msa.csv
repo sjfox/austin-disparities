@@ -1,0 +1,86 @@
+"ZIP","CITY","COUNTY","RES_RATIO","austin_case_data_exists"
+"76573","Schwertner","Williamson",1,0
+"78602","Bastrop","Bastrop",1,0
+"78619","Driftwood","Hays",1,0
+"78626","Georgetown","Williamson",1,1
+"78628","Georgetown","Williamson",1,1
+"78633","Georgetown","Williamson",1,0
+"78644","Lockhart","Caldwell",1,1
+"78645","Lago Vista","Travis",1,1
+"78665","Round Rock","Williamson",1,1
+"78681","Round Rock","Williamson",1,1
+"78701","Austin","Travis",1,1
+"78702","Austin","Travis",1,1
+"78703","Austin","Travis",1,1
+"78704","Austin","Travis",1,1
+"78705","Austin","Travis",1,1
+"78717","Austin","Williamson",1,1
+"78719","Austin","Travis",1,1
+"78721","Austin","Travis",1,1
+"78722","Austin","Travis",1,1
+"78723","Austin","Travis",1,1
+"78724","Austin","Travis",1,1
+"78725","Hornsby Bend","Travis",1,1
+"78726","Austin","Travis",1,1
+"78730","Austin","Travis",1,1
+"78731","Austin","Travis",1,1
+"78732","Austin","Travis",1,1
+"78733","Austin","Travis",1,1
+"78734","Lakeway","Travis",1,1
+"78735","Austin","Travis",1,1
+"78741","Austin","Travis",1,1
+"78742","Austin","Travis",1,1
+"78744","Austin","Travis",1,1
+"78745","Austin","Travis",1,1
+"78746","Austin","Travis",1,1
+"78747","Austin","Travis",1,1
+"78748","Austin","Travis",1,1
+"78749","Austin","Travis",1,1
+"78751","Austin","Travis",1,1
+"78752","Austin","Travis",1,1
+"78753","Austin","Travis",1,1
+"78754","Austin","Travis",1,1
+"78756","Austin","Travis",1,1
+"78757","Austin","Travis",1,1
+"78758","Austin","Travis",1,1
+"78738","Bee Cave","Travis",0.999769249,1
+"76574","Taylor","Williamson",0.999524884,1
+"78727","Austin","Travis",0.999163063,1
+"76530","Granger","Williamson",0.997011952,0
+"78660","Pflugerville","Travis",0.996443529,1
+"78653","Manor","Travis",0.995382586,1
+"78676","Wimberley","Hays",0.993169538,0
+"78739","Austin","Travis",0.99309106,1
+"78736","Austin","Travis",0.989230769,1
+"76537","Jarrell","Williamson",0.988693957,0
+"78634","Hutto","Williamson",0.9869066,1
+"78640","Kyle","Hays",0.982670668,1
+"78957","Smithville","Bastrop",0.973807107,0
+"78759","Austin","Travis",0.972048713,1
+"78642","Liberty Hill","Williamson",0.971533144,1
+"78612","Cedar Creek","Bastrop",0.970505177,1
+"78656","Maxwell","Caldwell",0.965517241,0
+"76578","Thrall","Williamson",0.956582633,0
+"78610","Buda","Hays",0.93912265,1
+"78666","San Marcos","Hays",0.931354718,0
+"78648","Luling","Caldwell",0.924879977,0
+"78729","Jollyville","Williamson",0.924092409,1
+"78613","Cedar Park","Williamson",0.905220289,1
+"76527","Florence","Williamson",0.903001072,0
+"78620","Dripping Springs","Hays",0.895291568,1
+"78659","Paige","Bastrop",0.885043263,0
+"78652","Manchaca","Travis",0.882853787,1
+"78664","Round Rock","Williamson",0.878908252,1
+"78662","Red Rock","Bastrop",0.864344638,0
+"78650","Mc Dade","Bastrop",0.860869565,0
+"78617","Del Valle","Travis",0.841836735,1
+"78641","Leander","Williamson",0.828291543,1
+"78655","Martindale","Caldwell",0.81694496,0
+"78728","Wells Branch","Travis",0.809516405,1
+"78953","Rosanky","Bastrop",0.759920635,0
+"78737","Austin","Hays",0.757548546,1
+"78616","Dale","Caldwell",0.752835663,1
+"78621","Elgin","Bastrop",0.723398086,1
+"78669","Spicewood","Travis",0.658752935,1
+"78615","Coupland","Williamson",0.595870206,1
+"78750","Austin","Travis",0.522642603,1
