@@ -341,13 +341,6 @@ save_plot('figs/fig4.tiff', fig4_svi_inf_report_plot, base_height = 7, base_asp 
 
 
 # SVI relationship stats for ms -------------------------------------------
-## Infection rate impact of SVI parameter
-inf_glmer_mod %>% sjPlot::tab_model()
-
-
-## Reporting rate impact of SVI parameter
-rr_glmer_mod %>% sjPlot::tab_model()
-
 ## Overall SVI grouping difference in infection risk
 exp(c(coef(inf_glmer_mod)$zip[1,'svi'], inf_svi_glmer_ci)*lmer_max_diff)
 

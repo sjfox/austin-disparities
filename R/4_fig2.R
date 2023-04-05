@@ -243,7 +243,7 @@ age_inf_wave %>%
         axis.text.x = element_text(angle = 45, hjust =1,vjust=1)) +
   labs(x = NULL, y = 'Fraction of all infections', fill = NULL, color = NULL) +
   background_grid(major = 'y', minor = 'y') +
-  scale_y_continuous(labels = scales::label_percent(accuracy=1), expand = c(0,0), limits = c(0,0.75)) +
+  scale_y_continuous(labels = scales::label_percent(accuracy=1), expand = c(0,0), limits = c(0,0.8)) +
   scale_fill_brewer(type = 'qual', palette = 2) +
   geom_hline(aes(yintercept = popfrac, color = age_group_paper), lty = 1) +
   scale_color_brewer(type = 'qual', palette = 2) -> age_wave_summary_plot
